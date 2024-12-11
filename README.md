@@ -7,7 +7,8 @@ The research is conducted in three phases. First, various machine learning model
 
 ---
 
-Our paper can be accessed at this [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964687).  
+Our paper can be accessed at this [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964687) or [paper](https://github.com/MonoHaru/Engine-Fault-Diagnostics-and-Prognostics/blob/main/Main engine Fault Diagnostics and Progonostics using Exhaust Gas Temperature data.pdf)  
+
 
 Moreover, we provide a [poster](https://github.com/MonoHaru/Engine-Fault-Diagnostics-and-Prognostics/blob/main/poster.pdf) for further information.  
 
