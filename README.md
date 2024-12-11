@@ -11,6 +11,6 @@ Our paper can be accessed at this [link](https://www.dbpia.co.kr/journal/article
 
 Moreover, we provide a [poster](https://github.com/MonoHaru/Engine-Fault-Diagnostics-and-Prognostics/blob/main/poster.pdf) for further information.  
 
-😊 I hope my idea let you give inspiration 😊  
+😊 I hope my idea inspires you 😊  
 
 Thank you for visiting my repo.
